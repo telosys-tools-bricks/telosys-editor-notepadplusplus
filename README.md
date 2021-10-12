@@ -6,6 +6,7 @@ See https://npp-user-manual.org/docs/user-defined-language-system/
 
 The following files contains UDL for Telosys files
 - **telosys-xx-vm-xxx.xml** for **".vm"** files (templates files)
+- **telosys-xx-entity-xxx.xml** for **".entity"** files (entities in DSL model)
 
 ### UDL file installation
 
