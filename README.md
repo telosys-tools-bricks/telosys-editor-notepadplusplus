@@ -12,17 +12,22 @@ The following files contains UDL for Telosys files
 In Notepad++ **main menu** :  
    **Langage > User Defined Language > Define your language...**
 
-1) Import the UDL file for ".vm" 
+For each UDL file to install : 
 
-- Button **[ Import... ]**
-    - Choose an ".xml" file provided by Telosys 
-    - If all goes well the message "Import succesful" is displayed
-  
-2) Save the imported UDL 
+- 1) Import the UDL file 
 
-- Button **[ Save as.. ]**
-     - Enter a name for the new UDL (e.g. "Telosys VM")
+    - Button **[ Import... ]**
+       - Choose an ".xml" file provided by Telosys 
+       - If all goes well the message "Import succesful" is displayed  
+       
+    
+- 2) Save the imported UDL 
+
+    - Button **[ Save as.. ]**
+       - Enter a name for the new UDL (e.g. "Telosys VM")
 
 
 Note :
 The new User Defined Language is stored in the Notepad++ file "userDefineLang.xml"
+
+   
