@@ -1,0 +1,36 @@
+CHANGES for Telosys ver 4.0.0
+
+-----------------------------------------------------
+
+TELOSYS MODEL (".entity" files)
+
+--- Add : new annotations without value
+@Abstract
+@AggregateRoot
+@DbView
+@InMemoryRepository
+@ReadOnly
+@Unique   (experimental)
+
+--- Add : new annotations with value
+@Context
+@DbCatalog
+@DbSchema
+@DbTable
+@DbTablespace
+@Domain
+@Extends
+@MaxLen
+@MinLen
+@Package
+@Size
+
+--- REMOVE : deprecated annotations
+@DbSize
+@SizeMax
+@SizeMin
+
+-----------------------------------------------------
+
+TELOSYS TEMPLATES (".vm" files)
+
