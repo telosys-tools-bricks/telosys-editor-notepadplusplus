@@ -21,10 +21,10 @@ For each UDL file to install import the UDL file
        
 If a previous version is already present remove it before import
 
-Open or re-open files with ".entiy" or ".vm" extension to check the coloration. 
+Open or re-open files with ".entity" or ".vm" extension to check the coloration. 
 
 
-
+For UDL documentation see : https://ivan-radic.github.io/udl-documentation/ 
    
 ### UDL file for ".entity"
 
@@ -35,7 +35,7 @@ Open or re-open files with ".entiy" or ".vm" extension to check the coloration.
  - Keywords4 : Annotations : all annotations without value (prefix mode = false)
  - Keywords5 : Annotations : all annotations with value (prefix mode = false)
  - Keywords6 : Tags : starting "#" character with prefix mode = true (for any tags)
-
-
+  
+  
 
    
